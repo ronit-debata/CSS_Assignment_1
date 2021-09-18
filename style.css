@@ -1,0 +1,174 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    background-color: #264653;
+}
+
+.first {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.first img {
+    margin-right: 10px;
+}
+
+.sub_first > h1 {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sub_first > h3 {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7rem;
+    font-stretch: 50%;
+} 
+
+.second {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.second_one {
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: #ee9b00;
+}
+
+.second_two {
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: #4cc9f0;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: 50%;
+    color: white;
+}
+
+strong {
+    font-stretch: 200%;
+}
+
+.third {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.third_cont {
+    background-color: #e63946;
+    width: 420px;
+    padding: 10px;
+}
+
+.third_one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.third_two > p {
+    margin-top: 0px;
+}
+
+.fourth {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+ 
+.fourth_one {
+    padding: 10px;
+    background-color: #4cc9f0;
+}
+
+.fourth_two {
+    padding: 10px;
+    background-color: #4cc9f0;
+}
+
+.fifth {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.fifth_one {
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: #e63946;
+}
+
+.fifth_two {
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: #ee9b00;
+}
+
+.sixth {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.sixth_one {
+    width: 300px;
+    padding: 10px;
+    background-color: #4cc9f0;
+}
+
+.sixth_two {
+    width: 100px;
+    padding: 10px;
+    background-color: #4cc9f0;
+}
+
+.seventh {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.seventh_one {
+    width: 300px;
+    padding: 10px;
+    background-color: #ee9b00;
+}
+
+.seventh_two {
+    width: 100px;
+    padding: 10px;
+    background-color: #ee9b00;
+}
+
+.eighth {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.eighth_one {
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: #4cc9f0;
+}
+
+.eighth_two {
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: #e63946;
+}
